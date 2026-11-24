@@ -42,11 +42,19 @@ YEAR   WAYPOINT          LOG
 
 ## 🧰 Payload
 
-<div align="center">
-
-![Skills](https://skillicons.dev/icons?i=python,cpp,cs,unity,pytorch,opencv,ros,threejs,flutter,docker,linux)
-
-</div>
+| | Tool | What I use it for |
+|:-:|---|---|
+| <img src="https://skillicons.dev/icons?i=python" width="28" alt=""> | **Python** | AI and computer-vision pipelines, LLM agents, 3D Gaussian Splatting |
+| <img src="https://skillicons.dev/icons?i=cpp" width="28" alt=""> | **C++** | Embedded and robot firmware (ESP32) |
+| <img src="https://skillicons.dev/icons?i=cs" width="28" alt=""> | **C#** | Unity scripting |
+| <img src="https://skillicons.dev/icons?i=unity" width="28" alt=""> | **Unity** | VR flight-path design tool, XR apps, simulation |
+| <img src="https://skillicons.dev/icons?i=pytorch" width="28" alt=""> | **PyTorch** | Training vision and robot-control (VLA) models |
+| <img src="https://skillicons.dev/icons?i=opencv" width="28" alt=""> | **OpenCV** | Image processing, pose estimation, video analysis |
+| <img src="https://skillicons.dev/icons?i=ros" width="28" alt=""> | **ROS 2** | Autonomous-driving stack (Autoware) and robotics |
+| <img src="https://skillicons.dev/icons?i=threejs" width="28" alt=""> | **Three.js** | Browser 3D tools such as the GLB editor and gimbal simulation |
+| <img src="https://skillicons.dev/icons?i=flutter" width="28" alt=""> | **Flutter** | Mobile apps |
+| <img src="https://skillicons.dev/icons?i=docker" width="28" alt=""> | **Docker** | Reproducible ML and simulation environments |
+| <img src="https://skillicons.dev/icons?i=linux" width="28" alt=""> | **Linux** | Ubuntu for GPU training and robotics work |
 
 ## 📄 Publications & patent
 

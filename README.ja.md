@@ -42,11 +42,19 @@
 
 ## 🧰 ペイロード（技術スタック）
 
-<div align="center">
-
-![Skills](https://skillicons.dev/icons?i=python,cpp,cs,unity,pytorch,opencv,ros,threejs,flutter,docker,linux)
-
-</div>
+| | ツール | 主な用途 |
+|:-:|---|---|
+| <img src="https://skillicons.dev/icons?i=python" width="28" alt=""> | **Python** | AI・コンピュータビジョンのパイプライン、LLMエージェント、3D Gaussian Splatting |
+| <img src="https://skillicons.dev/icons?i=cpp" width="28" alt=""> | **C++** | 組み込み・ロボットのファームウェア（ESP32） |
+| <img src="https://skillicons.dev/icons?i=cs" width="28" alt=""> | **C#** | Unityのスクリプト開発 |
+| <img src="https://skillicons.dev/icons?i=unity" width="28" alt=""> | **Unity** | VR飛行経路設計ツール、XRアプリ、シミュレーション |
+| <img src="https://skillicons.dev/icons?i=pytorch" width="28" alt=""> | **PyTorch** | 画像認識モデルやロボット制御（VLA）モデルの学習 |
+| <img src="https://skillicons.dev/icons?i=opencv" width="28" alt=""> | **OpenCV** | 画像処理、姿勢推定、映像解析 |
+| <img src="https://skillicons.dev/icons?i=ros" width="28" alt=""> | **ROS 2** | 自動運転スタック（Autoware）、ロボティクス |
+| <img src="https://skillicons.dev/icons?i=threejs" width="28" alt=""> | **Three.js** | ブラウザで動く3Dツール（GLBエディタ、ジンバルシミュレーション） |
+| <img src="https://skillicons.dev/icons?i=flutter" width="28" alt=""> | **Flutter** | モバイルアプリ |
+| <img src="https://skillicons.dev/icons?i=docker" width="28" alt=""> | **Docker** | 機械学習・シミュレーション環境の再現 |
+| <img src="https://skillicons.dev/icons?i=linux" width="28" alt=""> | **Linux** | GPU学習やロボティクス開発用のUbuntu |
 
 ## 📄 発表論文・特許
 
