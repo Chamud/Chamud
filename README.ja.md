@@ -75,6 +75,6 @@
 
 ## 📡 連絡先・言語
 
-English · 日本語（JLPT N2） · සිංහල &nbsp;|&nbsp; [研究室の業績一覧](https://nishizawatoshihiro.github.io/)
+English · 日本語（JLPT N2） · සිංහල &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/chamud-pathirannahelaya-06b512172) · [研究室の業績一覧](https://nishizawatoshihiro.github.io/)
 
 <div align="center"><sub>公立はこだて未来大学 システム情報科学部 卒業（2026年） · ロータリー米山記念奨学生 · 野崎わかば会奨学生</sub></div>

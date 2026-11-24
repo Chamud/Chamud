@@ -75,6 +75,6 @@ YEAR   WAYPOINT          LOG
 
 ## 📡 Comms
 
-English · 日本語 (JLPT N2) · සිංහල &nbsp;|&nbsp; [Lab publications](https://nishizawatoshihiro.github.io/)
+English · 日本語 (JLPT N2) · සිංහල &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/chamud-pathirannahelaya-06b512172) · [Lab publications](https://nishizawatoshihiro.github.io/)
 
 <div align="center"><sub>B.Sc. Systems Information Science, Future University Hakodate (2026) · Rotary Yoneyama Scholar · Nozaki Wakaba Scholar</sub></div>
