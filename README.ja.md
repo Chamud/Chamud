@@ -68,10 +68,8 @@
 | プロジェクト | 概要 |
 |---|---|
 | [harnessing_loop](https://github.com/Chamud/harnessing_loop) | エージェントの中核：VLM、ループ、ツール、サンドボックス、ゲート |
-| [glb-crop-editor](https://github.com/Chamud/glb-crop-editor) | 単一ファイルで動くWeb版GLBメッシュ切り抜きエディタ（Three.js） |
-| [3DGS-101](https://github.com/Chamud/3DGS-101) | 3D Gaussian Splatting の実験 |
-| [gimbal-simulation](https://github.com/Chamud/gimbal-simulation) | 3軸ジンバルとジンバルロックのインタラクティブデモ |
 | [BJT](https://github.com/Chamud/BJT) | BJTビジネス日本語能力テストの学習アプリ |
+| [glb-crop-editor](https://github.com/Chamud/glb-crop-editor) | 単一ファイルで動くWeb版GLBメッシュ切り抜きエディタ（Three.js） |
 
 ## 📡 連絡先・言語
 

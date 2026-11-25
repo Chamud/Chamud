@@ -68,10 +68,8 @@ YEAR   WAYPOINT          LOG
 | Project | What it is |
 |---|---|
 | [harnessing_loop](https://github.com/Chamud/harnessing_loop) | The core of an agent: VLM, loop, tools, sandbox, gates |
-| [glb-crop-editor](https://github.com/Chamud/glb-crop-editor) | Single-file web GLB mesh crop editor (Three.js) |
-| [3DGS-101](https://github.com/Chamud/3DGS-101) | 3D Gaussian Splatting experiments |
-| [gimbal-simulation](https://github.com/Chamud/gimbal-simulation) | Interactive 3-axis gimbal and gimbal-lock demo |
 | [BJT](https://github.com/Chamud/BJT) | Study app for the Business Japanese Proficiency Test |
+| [glb-crop-editor](https://github.com/Chamud/glb-crop-editor) | Single-file web GLB mesh crop editor (Three.js) |
 
 ## 📡 Comms
 
